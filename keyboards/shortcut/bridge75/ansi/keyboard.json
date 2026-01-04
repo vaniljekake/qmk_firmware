@@ -8,7 +8,7 @@
     },
     "rgb_matrix": {
         "sleep": true,
-        "timeout": 60000,
+        "timeout": 300000,
         "default": {
             "animation": "cycle_left_right",
             "val": 150
