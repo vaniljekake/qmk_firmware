@@ -79,6 +79,8 @@
     },
     "rgb_matrix": {
         "driver": "ws2812",
-        "max_brightness": 225
+        "max_brightness": 225,
+        "sleep": true,
+        "timeout": 600000
     }
 }
